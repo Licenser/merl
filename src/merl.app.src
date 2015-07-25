@@ -2,6 +2,7 @@
 {application, merl,
  [
   {description, "merl"},
+  {applications, []},
   {vsn, "1"}
  ]}.
 
